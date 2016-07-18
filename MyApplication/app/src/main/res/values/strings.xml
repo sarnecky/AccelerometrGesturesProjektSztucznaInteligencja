@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rozpoznawanie gestów</string>
+    <string name="title_activity_admin">Uczenie nowych wzorców</string>
+    <string name="title_activity_learnig">learnig</string>
+</resources>
